@@ -1,0 +1,7 @@
+/home/princy/Desktop/FOSA-ENGLISH-CLUB/FosaEnglishClub/out/FosaEnglishClub
+/home/princy/Desktop/FOSA-ENGLISH-CLUB/FosaEnglishClub/out/appsettings.Development.json
+/home/princy/Desktop/FOSA-ENGLISH-CLUB/FosaEnglishClub/out/appsettings.json
+/home/princy/Desktop/FOSA-ENGLISH-CLUB/FosaEnglishClub/out/FosaEnglishClub.dll
+/home/princy/Desktop/FOSA-ENGLISH-CLUB/FosaEnglishClub/out/FosaEnglishClub.deps.json
+/home/princy/Desktop/FOSA-ENGLISH-CLUB/FosaEnglishClub/out/FosaEnglishClub.runtimeconfig.json
+/home/princy/Desktop/FOSA-ENGLISH-CLUB/FosaEnglishClub/out/FosaEnglishClub.pdb
