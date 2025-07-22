@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FosaEnglishClub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2ce683c861d063e5b765f7a03a52bf193fd9916")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0f0f6a3708df6bf61be3a3e236bd7afa1cead39")]
 [assembly: System.Reflection.AssemblyProductAttribute("FosaEnglishClub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FosaEnglishClub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
